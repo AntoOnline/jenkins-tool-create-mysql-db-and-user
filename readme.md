@@ -37,3 +37,9 @@ This pipeline is provided as-is and without warranty. Use at your own risk.
 ## License
 
 This pipeline is licensed under the MIT License.
+
+## Want to connect?
+
+Feel free to contact me on [Twitter](https://twitter.com/OnlineAnto) or [LinkedIn](https://www.linkedin.com/in/anto-online) if you have any questions or suggestions.
+
+Or just visit my [website](https://anto.online) to see what I do.
